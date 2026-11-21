@@ -1,0 +1,39 @@
+{
+  "draft_name": "寄存器速查MD",
+  "width": 1080,
+  "height": 1920,
+  "images": [
+    { "file": "01.png", "duration": 3 },
+    { "file": "02.png", "duration": 7 },
+    { "file": "03.png", "duration": 7 },
+    { "file": "04.png", "duration": 10 },
+    { "file": "05.png", "duration": 7 },
+    { "file": "06.png", "duration": 8 },
+    { "file": "07.png", "duration": 12 },
+    { "file": "08.png", "duration": 8 },
+    { "file": "09.png", "duration": 5 },
+    { "file": "10.png", "duration": 5 }
+  ],
+  "voice": {
+    "file": "voice.wav",
+    "volume": 1.0,
+    "fade_in": 0.3,
+    "fade_out": 0.5
+  },
+  "bgm": {
+    "file": "bgm.wav",
+    "volume": 0.13,
+    "fade_in": 1.5,
+    "fade_out": 1.5
+  },
+  "subtitle": "subtitles.srt",
+  "transition": {
+    "name": "叠化",
+    "duration": 0.5
+  },
+  "animation": {
+    "name": "轻微放大",
+    "kind": "in",
+    "duration": 1.0
+  }
+}
