@@ -26,7 +26,7 @@
 
 ```
 帮我安装 jianying-draft-builder skill：
-cd <workspace>/skills && git clone https://github.com/WUCEYWE/jianying-draft-builder.git && cd jianying-draft-builder && pip install -r requirements.txt
+cd <workspace>/skills && git clone https://github.com/milo598/jianying-draft-builder.git && cd jianying-draft-builder && pip install -r requirements.txt
 ```
 
 装完自检：
